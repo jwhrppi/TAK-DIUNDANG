@@ -5,13 +5,7 @@
 
 <!-- QUICK LINKS / BADGES -->
 <p align="center">
-  <a href="https://jwhrppi.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-354024?style=for-the-badge&logo=itch.io&logoColor=E5D7C4" alt="Play on Itch.io" />
-  </a>
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Godot_4.x-889063?style=for-the-badge&logo=godot-engine&logoColor=E5D7C4" alt="Godot 4" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Windows-4C3D19?style=for-the-badge&logo=windows&logoColor=E5D7C4" alt="Windows" />
 </p>
 
 ---
@@ -29,7 +23,7 @@ Driven by traditional folklore defenses (*Daun Mengkuang* traps and *Sekam Padi*
 ## KEY FEATURES & GAMEPLAY MECHANICS
 
 * **Atmospheric Narrative Pacing:** Spanning across 4 tense days, starting from packing up at the university dorms to surviving midnight encounters in the village.
-* 🌿 **Folklore Survival Traps:**
+* **Folklore Survival Traps:**
   * **Mengkuang Leaves (*Daun Mengkuang*):** Thorny natural barriers that slow down the Orang Minyak, rustle upon impact, and break his spell.
   * **Padi Husks (*Sekam Padi*):** Distraction mechanic exploiting the entity's compulsion to stop and count grains.
   * **Kain Batik Stripping:** Rare active tool used to neutralize his invisibility once trapped.
@@ -40,7 +34,7 @@ Driven by traditional folklore defenses (*Daun Mengkuang* traps and *Sekam Padi*
 ## TECH STACK & TOOLS
 
 * **Engine:** [Godot Engine 4.x](https://godotengine.org/) (3D / GDScript)
-* **3D Modeling & Assets:** [Blockbench](https://www.blockbench.net/) & [MakeHuman](http://www.makehumancommunity.org/)
+* **3D Modeling & Assets:** [Blender](https://www.blender.org/)
 * **Animations:** [Adobe Mixamo](https://www.mixamo.com/)
 * **Textures & Graphics:** Photopea / Paint.NET
 * **Audio & Sound FX:** Custom squelching, ambient night noises, and CCTV static audio effects
