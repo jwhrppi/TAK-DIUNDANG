@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=354024&height=180&section=header&text=TAK%20DIUNDANG&fontSize=50&fontColor=E5D7C4&fontAlignY=40&font=Pacifico&desc=The%20Uninvited%20%E2%80%94%20A%20Malaysian%20Folklore%20Horror&descSize=18&descAlignY=68&descColor=CFBB99" width="100%" />
 </p>
 
-<!-- QUICK LINKS / BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Godot_4.x-889063?style=for-the-badge&logo=godot-engine&logoColor=E5D7C4" alt="Godot 4" />
-</p>
-
 ---
 
 ## OVERVIEW
