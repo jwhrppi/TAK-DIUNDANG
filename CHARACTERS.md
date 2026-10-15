@@ -9,7 +9,7 @@
 
 ---
 
-## 🎭 CAST & CHARACTERS
+## CAST & CHARACTERS
 
 <p align="center">
   <table width="100%">
