@@ -42,7 +42,7 @@
     <tr>
       <td valign="top">
         <b>Role:</b> Older Sister<br />
-        <b>Description:</b> Your older sister who stayed back at the kampung house. Unaware of the lurking supernatural threat, she becomes the primary target of the entity.
+        <b>Description:</b> Protagonist's older sister who stayed back at the kampung house. Unaware of the lurking supernatural threat, she becomes the primary target of the entity.
       </td>
       <td valign="top">
         <b>Role:</b> Best Friend<br />
