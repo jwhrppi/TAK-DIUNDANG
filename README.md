@@ -45,5 +45,3 @@ Meet the cast of **TAK DIUNDANG**!
     <img src="https://img.shields.io/badge/View_Character_Lore_%26_Gifs-889063?style=for-the-badge&logoColor=E5D7C4" alt="View Characters" />
   </a>
 </p>
-
-👉 **[Click here to view full character previews and lore (CHARACTERS.md)](./CHARACTERS.md)**
