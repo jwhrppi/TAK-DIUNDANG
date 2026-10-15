@@ -36,19 +36,14 @@ Driven by traditional folklore defenses (*Daun Mengkuang* traps and *Sekam Padi*
 
 ---
 
-## 📁 REPOSITORY & PROJECT STRUCTURE
+## CHARACTERS
 
-```text
-TAK_DIUNDANG/
-├── assets/
-│   ├── audio/          # BGM, ambient sounds, and squelch SFX
-│   ├── materials/      # Godot 3D materials (normal skin & oily black shaders)
-│   ├── models/         # .glb / .gltf files (House, Props, Characters)
-│   └── textures/       # Pixelated low-res texture maps (256x256 / 512x512)
-├── scenes/
-│   ├── characters/     # Player, Kakak, Orang Minyak, NPCs
-│   ├── env/            # Kampung House, Warung, Dorm room
-│   ├── ui/             # Main menu, CCTV interface, inventory
-│   └── levels/         # Day 1 to Day 4 level scenes
-├── scripts/            # GDScript state machines, inventory, and AI behaviors
-└── default_env.tres
+Meet the cast of **TAK DIUNDANG**! 
+
+<p align="center">
+  <a href="./CHARACTERS.md">
+    <img src="https://img.shields.io/badge/View_Character_Lore_%26_Gifs-889063?style=for-the-badge&logoColor=E5D7C4" alt="View Characters" />
+  </a>
+</p>
+
+👉 **[Click here to view full character previews and lore (CHARACTERS.md)](./CHARACTERS.md)**
