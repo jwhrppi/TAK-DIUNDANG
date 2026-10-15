@@ -12,20 +12,29 @@
 ## 🎭 CAST & CHARACTERS
 
 <p align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/0ee2d792-46b7-49dc-a1b6-829f62b7e3b4" width="100%" alt="Kakak" /><br /><br />
+        <div style="height: 220px; display: flex; align-items: center; justify-content: center;">
+          <img src="https://github.com/user-attachments/assets/0ee2d792-46b7-49dc-a1b6-829f62b7e3b4" width="200" alt="Kakak" />
+        </div>
+        <br />
         <b>Kakak (Sister)</b><br />
         <sub><i>"Macam ada benda la kat rumah ni..."</i></sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/9fe1733e-e367-464d-945d-ba74d4d8622c" width="100%" alt="Afiq" /><br /><br />
+        <div style="height: 220px; display: flex; align-items: center; justify-content: center;">
+          <img src="https://github.com/user-attachments/assets/9fe1733e-e367-464d-945d-ba74d4d8622c" width="200" alt="Afiq" />
+        </div>
+        <br />
         <b>Afiq</b><br />
         <sub><i>"Tahyul la semua tu.."</i></sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/beb18f16-4213-4bd4-8c5f-14166e04986f" width="100%" alt="Ravi" /><br /><br />
+        <div style="height: 220px; display: flex; align-items: center; justify-content: center;">
+          <img src="https://github.com/user-attachments/assets/beb18f16-4213-4bd4-8c5f-14166e04986f" width="200" alt="Ravi" />
+        </div>
+        <br />
         <b>Ravi</b><br />
         <sub><i>"Eh, korang tahu pasal..."</i></sub>
       </td>
